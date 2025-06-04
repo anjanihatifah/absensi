@@ -1,0 +1,1 @@
+java -D=libs -jar Absensi.jar
